@@ -11,5 +11,3 @@ Discount impact analysis
 Geographic sales visualization
 
 Interactive filters and slicers
-
-![Dashboard Screenshot](Coffee Bean Sales Dashboard.png)
